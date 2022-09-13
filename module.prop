@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=umi108
+name=108MP Mod
+version=v0.1
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=Savitar, packaged by kylemd
+description=Modified system files for MIUI beta 22.6.22 to enable 108MP RAW stream
